@@ -62,7 +62,7 @@
            <configuration>
                <archive>
                    <manifest>
-                       <mainClass>org.sample.mavensample5.App</mainClass>
+                       <mainClass>org.sample.mavensample6.App</mainClass>
                    </manifest>
                </archive>
            </configuration>    
